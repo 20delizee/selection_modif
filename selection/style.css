@@ -1,0 +1,85 @@
+html 
+{
+	background-color: #d8d520
+}
+.inscription {
+	display: flex;
+	justify-content: center;
+}
+
+.inscription>div {
+    align-items: center;
+    background-color: #5e6157;
+    border-radius: 5px;
+    width: 35%;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.monge>div {
+    
+    margin-top: 5px;
+    background-color: #afb1a9;
+    border-radius: 15px;
+    width: 100%;
+    padding: 5px;
+    border-style: solid;
+    border-color: #e0eac2;
+    border-width: 2px;	
+}
+body
+{
+	text-align: center;
+}
+
+button 
+{
+	font-size: large
+}
+
+table 
+{
+	border-collapse: collapse;
+}
+
+
+
+p
+{
+	font-weight: bold;
+}
+
+
+
+td 
+{
+    border: 1px solid black; 
+}
+
+table
+{
+	font-size: 2em
+}
+
+td,th
+{
+	border: 1px solid black
+}
+
+
+.dossieraccepté
+{
+	background-color: green; 
+}
+
+.dossierefusé
+{
+	background-color: red;
+}
+
+.dossieréexaminé
+{
+	background-color: pink; 
+}
+
